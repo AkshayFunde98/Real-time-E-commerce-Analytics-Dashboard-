@@ -4,7 +4,7 @@ from kafka import KafkaProducer
 from pyspark.sql import SparkSession
 
 # Define the Kafka topic and bootstrap servers
-kafka_topic = "top1"
+kafka_topic = "RTEAD"
 kafka_bootstrap_servers = "localhost:9092"
 
 
