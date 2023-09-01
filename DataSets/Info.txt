@@ -1,1 +1,0 @@
-This folder contains all the Datasets(csv files) which are used in the project.
